@@ -1,0 +1,14 @@
+{
+  "gameObjects": [
+    {
+      "name": "DarkGhost",
+      "x": 70,
+      "y": 70
+    },
+    {
+      "name": "Player",
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

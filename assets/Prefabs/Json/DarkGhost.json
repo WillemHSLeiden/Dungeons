@@ -1,0 +1,11 @@
+{
+  "$schema": "ComponentSchema.json",
+
+  "components": {
+    "transform": {},
+    "renderer": {
+      "sprite": "assets/Sprites/grim.png",
+      "src": [ 32, 16, 0, 0 ]
+    }
+  }
+}

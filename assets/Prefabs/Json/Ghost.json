@@ -1,0 +1,21 @@
+{
+  "$schema": "ComponentSchema.json",
+
+  "name": "ghost",
+
+  "components": {
+    "transform": {
+
+    },
+    "renderer": {
+      "sprite": "assets/Sprites/ghostie.png",
+      "src": [ 16, 16, 0, 0 ]
+    },
+    "collider": {
+      "x1": 0,
+      "y1": 0,
+      "x2": 16,
+      "y2": 16
+    }
+  }
+}

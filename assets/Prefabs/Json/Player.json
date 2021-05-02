@@ -1,0 +1,19 @@
+{
+  "$schema": "ComponentSchema.json",
+
+  "name": "player",
+
+  "components": {
+    "transform": {
+
+    },
+    "animator": {
+
+    },
+    "renderer": {
+      "sprite": "assets/Sprites/link.png",
+      "src": [ 16, 16, 0, 0 ]
+    },
+    "playerController": {}
+  }
+}

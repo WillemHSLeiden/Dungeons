@@ -1,0 +1,15 @@
+﻿  Animator.cpp
+E:\Dungeons\Dungeons\Dungeons\src\Components\Animator.cpp(15,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Dungeons\Dungeons\Dungeons\src\Components\Animator.cpp(15,140): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Collider.cpp
+E:\Dungeons\Dungeons\Dungeons\src\Components\Collider.cpp(26,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Dungeons\Dungeons\Dungeons\src\Components\Collider.cpp(27,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Dungeons\Dungeons\Dungeons\src\Components\Collider.cpp(28,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Dungeons\Dungeons\Dungeons\src\Components\Collider.cpp(29,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Renderer.cpp
+E:\Dungeons\Dungeons\Dungeons\src\Components\Renderer.cpp(25,134): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Dungeons\Dungeons\Dungeons\src\Components\Renderer.cpp(25,111): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Dungeons\Dungeons\Dungeons\src\Components\Renderer.cpp(25,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Dungeons\Dungeons\Dungeons\src\Components\Renderer.cpp(25,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Dungeons.vcxproj -> E:\Dungeons\Dungeons\x64\Debug\Dungeons.exe
